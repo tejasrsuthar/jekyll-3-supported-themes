@@ -7,4 +7,4 @@ List of Jekyll 3 Supported Themes
 - [slim-pickins](https://github.com/chrisanthropic/slim-pickins-jekyll-theme) [Demo](http://chrisanthropic.github.io/slim-pickins-jekyll-theme/)
 - [comical-jekyll-theme](https://github.com/chrisanthropic/comical-jekyll-theme) [Demo](http://chrisanthropic.github.io/comical-jekyll-theme/)
 - [Bitwiser](https://github.com/brijeshb42/bitwiser) [Demo](http://bitwiser.in/bitwiser/)
-
+- [goyllo](https://github.com/goyllo/goyllo.github.io)
